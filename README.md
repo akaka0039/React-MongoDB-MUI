@@ -13,7 +13,7 @@ Node.js
 
 ## Problem
 
-01/2023/08
+01/2023/08  
 ・can't see the picture of users in post display
 
 - maybe PostsWidget.jsx has a problem.
